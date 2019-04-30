@@ -1,0 +1,22 @@
+[{
+  "color": "red",
+  "value": "#FF0000"
+}, {
+  "color": "green",
+  "value": "#00FF00"
+}, {
+  "color": "blue",
+  "value": "#0000FF"
+}, {
+  "color": "cyan",
+  "value": "#00FFFF"
+}, {
+  "color": "magenta",
+  "value": "#FF00FF"
+}, {
+  "color": "yellow",
+  "value": "#FFFF00"
+}, {
+  "color": "black",
+  "value": "#000000"
+} ]
