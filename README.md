@@ -32,11 +32,13 @@ Recycler View Items with FireStore
 ## Third party libraries
 
 *  Butter Knife Library
-
 *  FirebaseFirestore
 
 ## Installation
 
+* Click Clone or download button to download as Zip file.
+* Extract the zip file and open Android studio to open the project.
+* Wait for the project to finish building.
 
 ## Testing
 
