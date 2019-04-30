@@ -49,6 +49,9 @@ Recycler View Items with FireStore
 
 ## Testing
 
+* When the application runs offline(without Internet), onFailureListener does not trigger since it only triggers when the data is unable to write in database.
+* However, Cloud firestore saves the data as cache when offline and it synchronizes any local changes back to Cloud Firestore.
+
 
 ## Author
 * Kyaw Si Thu
