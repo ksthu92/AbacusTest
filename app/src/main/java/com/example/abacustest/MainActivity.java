@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
                     }).addOnFailureListener(new OnFailureListener(){
                                 @Override
                        public void onFailure(@NonNull Exception e){
-                            Toast.makeText(getBaseContext(), "Unable to save the data ", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(getBaseContext(), "Unable to save the data", Toast.LENGTH_SHORT).show();
                         }
                     });
                 }
